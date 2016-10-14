@@ -161,7 +161,7 @@ require 'includes/header.inc.php';
 ?>
 <div id="sidebar">
 
-<h1 class="logo"><a href="?overview&amp;s=<?php echo $server['id']?>&amp;d=<?php echo $server['db']?>">phpRedisAdmin</a></h1>
+<h1 class="logo"><a href="?overview&amp;s=<?php echo $server['id']?>&amp;d=<?php echo $server['db']?>">DocsRedisAdmin</a></h1>
 
 <p>
 <select id="server">
